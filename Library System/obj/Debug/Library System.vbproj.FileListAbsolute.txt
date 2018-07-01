@@ -1,0 +1,68 @@
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\bin\Debug\Library System.exe.config
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\bin\Debug\Library System.exe
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\bin\Debug\Library System.pdb
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\bin\Debug\Library System.xml
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\ResolveAssemblyReference.cache
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmBorrow.resources
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmCourse.resources
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmMembers.resources
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmBooks.resources
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.mdiMain.resources
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.Resources.resources
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library System.vbproj.GenerateResource.Cache
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library System.exe
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library System.xml
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library System.pdb
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmLogin.resources
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmSubject.resources
+D:\Websites\Sourcecodester.com\Source Code\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmReturn.resources
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\bin\Debug\Library System.exe.config
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library System.exe
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library System.xml
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library System.pdb
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\bin\Debug\Library System.exe
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\bin\Debug\Library System.pdb
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\bin\Debug\Library System.xml
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\ResolveAssemblyReference.cache
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmBorrow.resources
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmCourse.resources
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmLogin.resources
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmMembers.resources
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmBooks.resources
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmReturn.resources
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.frmSubject.resources
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.mdiMain.resources
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library_System.Resources.resources
+D:\Websites\Sourcecodester.com\Tutorials\Library System\Library System\Library System\obj\Debug\Library System.vbproj.GenerateResource.Cache
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library_System.Login.resources
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library_System.Pinjam.resources
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library_System.Search.resources
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library_System.Resources.resources
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library System.vbproj.GenerateResource.cache
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library System.vbproj.CoreCompileInputs.cache
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library System.vbprojAssemblyReference.cache
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\Library System.exe.config
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\Library System.exe
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\Library System.pdb
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\Library System.xml
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\Google.Protobuf.dll
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\MySql.Data.dll
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\MySql.Web.dll
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\MySql.Data.xml
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\MySql.Web.xml
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library System.vbproj.CopyComplete
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library System.exe
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library System.xml
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library System.pdb
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\Devart.Data.dll
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\Devart.Data.MySql.dll
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\Devart.Data.xml
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\bin\Debug\Devart.Data.MySql.xml
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library_System.Admin.resources
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library_System.tamkategori.resources
+D:\Devry\Kuliah\Semester 3\PBD\Library System\Library System\obj\Debug\Library_System.TamPengarang.resources

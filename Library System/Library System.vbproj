@@ -116,9 +116,18 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controls\ctrbuku.vb" />
-    <Compile Include="Controls\infproses.vb" />
-    <Compile Include="Entity\buku.vb" />
+    <Compile Include="Forms\Admin.Designer.vb">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\tamPengarang.Designer.vb">
+      <DependentUpon>tamPengarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\tamPengarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Forms\Login.Designer.vb">
       <DependentUpon>Login.vb</DependentUpon>
     </Compile>
@@ -137,8 +146,13 @@
     <Compile Include="Forms\Search.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Forms\tamkategori.Designer.vb">
+      <DependentUpon>tamkategori.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\tamkategori.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Global\modCon.vb" />
-    <Compile Include="Global\modglobal.vb" />
     <Compile Include="libraryDataSet.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -161,6 +175,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Forms\Admin.resx">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Login.resx">
       <DependentUpon>Login.vb</DependentUpon>
     </EmbeddedResource>
@@ -169,6 +186,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Search.resx">
       <DependentUpon>Search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\tamkategori.resx">
+      <DependentUpon>tamkategori.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\tamPengarang.resx">
+      <DependentUpon>tamPengarang.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

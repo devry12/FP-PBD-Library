@@ -36,7 +36,6 @@ Partial Class Search
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
-        Me.Button2 = New System.Windows.Forms.Button()
         Me.databuku = New System.Windows.Forms.DataGridView()
         Me.id_buku = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.judul_buku = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -45,6 +44,7 @@ Partial Class Search
         Me.id_pengarang = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.tahun_terbit = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.no_rak = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Button2 = New System.Windows.Forms.Button()
         Me.LibraryDataSet = New Library_System.libraryDataSet()
         Me.BukuBindingSource = New System.Windows.Forms.BindingSource(Me.components)
         Me.BukuTableAdapter = New Library_System.libraryDataSetTableAdapters.bukuTableAdapter()
@@ -180,15 +180,6 @@ Partial Class Search
         Me.GroupBox2.TabIndex = 1
         Me.GroupBox2.TabStop = False
         '
-        'Button2
-        '
-        Me.Button2.Location = New System.Drawing.Point(27, 321)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
-        Me.Button2.TabIndex = 2
-        Me.Button2.Text = "kembali"
-        Me.Button2.UseVisualStyleBackColor = True
-        '
         'databuku
         '
         Me.databuku.AllowUserToAddRows = False
@@ -244,6 +235,15 @@ Partial Class Search
         Me.no_rak.HeaderText = "Nomer Rak"
         Me.no_rak.Name = "no_rak"
         Me.no_rak.ReadOnly = True
+        '
+        'Button2
+        '
+        Me.Button2.Location = New System.Drawing.Point(27, 321)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.TabIndex = 2
+        Me.Button2.Text = "kembali"
+        Me.Button2.UseVisualStyleBackColor = True
         '
         'LibraryDataSet
         '
